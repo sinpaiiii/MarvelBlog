@@ -26,6 +26,10 @@ There are **five domains** in MARVEL, out of which the students are allotted one
 - [Cloud Computing and Cyber Security](https://hub.uvcemarvel.in/course/CL-CY-001)
 
 ## Roles
+
+ > *Who are we beyond the roles that we play?* ~ **Joan Anderson** 
+ 
+ 
 #### 1. Co-ordinator  
 This is the a**dministrative** and **management** role in MARVEL. A wide variety of tasks fall under this category, to name a few, inventory management, keeping record of the students' progress and ensuring their attendance, drafting letters and broadcast messages for events, forming the syllabi, troubleshooting errors and a lot more. Every co-ordinator is a representative, a **brand ambassador of MARVEL** itself. 
 #### 2. Student  
