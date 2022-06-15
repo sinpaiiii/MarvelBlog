@@ -18,7 +18,7 @@ funded by the alumni through the **UVCE Graduates Association** and is taken car
 The club was inaugurated  on **15th September, 2021**, the *co-ordinators* have kept the lab up and running since then. On December, 2021 the first batch of *students* entered the lab after shortlisting about thirty out of a hundred applicants. The first batch officially ended the level one of their respective domains on June. (The above-mentioned roles will be briefly discussed below)
 
 ## Domains
-There are **five domains** in MARVEL, out of which the students are alloted one. Each domain has *three levels* and each level contains *certain number of tasks*. The students are espected to completed their set of tasks and submit a report before the start ofnext batch. The domains are as follows:
+There are **five domains** in MARVEL, out of which the students are allotted one. Each domain has *three levels* and each level contains *certain number of tasks*. The students are expected to complete their set of tasks and submit a report before the start of next batch. The domains are as follows:
 - [IoT](https://hub.uvcemarvel.in/course/IOT-001) 
 - [AI-ML](https://hub.uvcemarvel.in/course/AI-ML-001)
 - [Design and Prototyping](https://hub.uvcemarvel.in/course/D-P-001)
