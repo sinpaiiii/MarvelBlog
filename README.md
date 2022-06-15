@@ -1,7 +1,9 @@
 # MarvelBlog
 ## MARVEL
 **MARVEL** is a recently set-up R&D Labratory in University Visveswarya College of Engineering, Bangalore. It is a solely student run environment, 
-funded by the alumini through the **UVCE Graduates Association** and is taken care by Mr. Satish, whom the students refer to as "Satish anna". It is located beside the library next to Minchu. It is a place where innovative and enthusiastic minds get together and work on projects and curate a syllabi for new learners. A system without any hierarchy, where all the students are trained to handle amy given situayion in the most diplomatic way possible.
+funded by the alumini through the **UVCE Graduates Association** and is taken care by Mr. Satish, whom the students refer to as "Satish anna". It is located beside the library next to Minchu. It is a place where innovative and enthusiastic minds get together and work on projects and curate a syllabi for new learners. A system without any hierarchy, where all the students are trained to handle amy given situayion in the most diplomatic way possible.  
+
+![hey](UVCE_03.jpg)
 
 #### When and how it started?  
 The club was ingurated on **15th September,2021**, the *co-ordinators* have kept the lab up and running since then. On December, 2021 the first batch of *students* entered the lab after shortlisting aboutthirty out of a hundred applicants. The first batch offically ended the level one of their respective domain on June. (The above mentioned roles will be briefly disscused below)
