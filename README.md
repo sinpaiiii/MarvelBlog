@@ -27,11 +27,11 @@ There are **five domains** in MARVEL, out of which the students are allotted one
 
 ## Roles
 #### 1. Co-ordinator  
-This is the a**dministrative** and **management** role in MARVEL. A wide variety of tasks fall under this category, to name a few, inventory management, keeping record of the students' progress and ensuring their attendance, drating letters and broadcast messages for events, forming the syllabi, troubleshooting erros and a lot more. Every co-ordinator is a representative, a **brand ambassador of MARVEL** itself. 
+This is the a**dministrative** and **management** role in MARVEL. A wide variety of tasks fall under this category, to name a few, inventory management, keeping record of the students' progress and ensuring their attendance, drafting letters and broadcast messages for events, forming the syllabi, troubleshooting errors and a lot more. Every co-ordinator is a representative, a **brand ambassador of MARVEL** itself. 
 #### 2. Student  
-A student is the "learner's role', the people who wish to get to know abd dive deep into to one of the listed above domains. They are expected to complete their given set of tasks and submit a report when a term ends. \
+A student is the "learner's role', the people who wish to get to know and dive deep into one of the listed above domains. They are expected to complete their given set of tasks and submit a report when a term ends. 
 #### 3. Project-Team (in progress)
-This set of people are expected to work on a project and submit weekly updates. To be accpeted as one, a roject proposal is made and on approval of the UVCEGA they are alloted funds and kept an eye on.
+This set of people are expected to work on a project and submit weekly updates. To be accepted as one, a project proposal is made and on approval of the UVCEGA they are allotted funds and kept an eye on.
 
 ## Contact and Social Media
 [website](https://hub.uvcemarvel.in/)  
