@@ -23,8 +23,8 @@ A student is the "learner's role', the people who wish to get to know abd dive d
 This set of people are expected to work on a project and submit weekly updates. To be accpeted as one, a roject proposal is made and on approval of the UVCEGA they are alloted funds and kept an eye on.
 
 ## Contacts and Social Media
-<uvcemarvel@gmail.com>
-[Linkedin](https://www.linkedin.com/company/uvcega/)
+<uvcemarvel@gmail.com>  
+[Linkedin](https://www.linkedin.com/company/uvcega/)  
 [Instagram](https://www.instagram.com/visionuvce/)
 
  
