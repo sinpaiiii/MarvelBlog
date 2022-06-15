@@ -27,4 +27,4 @@ This set of people are expected to work on a project and submit weekly updates. 
 [Linkedin](https://www.linkedin.com/company/uvcega/)  
 [Instagram](https://www.instagram.com/visionuvce/)
 
- 
+>"Help with a quote please qwq"~sinpai
