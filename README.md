@@ -24,5 +24,7 @@ This set of people are expected to work on a project and submit weekly updates. 
 
 ## Contacts and Social Media
 <uvcemarvel@gmail.com>
+[Linkedin](https://www.linkedin.com/company/uvcega/)
+[Instagram](https://www.instagram.com/visionuvce/)
 
  
