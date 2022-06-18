@@ -12,9 +12,11 @@ funded by the alumni through the **UVCE Graduates Association** and is taken car
 
 #### When and how it started?  
 
-> *"A journey of a thousand miles begins with a single step."* ~ **Lao Tsu**
+> *"A journey of a thousand miles begins with a single step."* ~ **Lao Tsu**  
 
-[](IMG-20220616-WA0080.jpg)
+
+
+![](IMG-20220616-WA0080.jpg)
 
 The club was inaugurated  on **15th September, 2021**, the *co-ordinators* have kept the lab up and running since then. On December, 2021 the first batch of *students* entered the lab after shortlisting about thirty out of a hundred applicants. The first batch officially ended the level one of their respective domains on June. (The above-mentioned roles will be briefly discussed below)
 
@@ -36,7 +38,21 @@ This is the a**dministrative** and **management** role in MARVEL. A wide variety
 #### 2. Student  
 A student is the "learner's role', the people who wish to get to know and dive deep into one of the listed above domains. They are expected to complete their given set of tasks and submit a report when a term ends. 
 #### 3. Project-Team (in progress)
-This set of people are expected to work on a project and submit weekly updates. To be accepted as one, a project proposal is made and on approval of the UVCEGA they are allotted funds and kept an eye on.
+This set of people are expected to work on a project and submit weekly updates. To be accepted as one, a project proposal is made and on approval of the UVCEGA they are allotted funds and kept an eye on.  
+
+## Events  
+
+Team MARVEL has conducted various seminars and workshops, that were open for all students of UVCE. One wouldn't be surprised on seeing a student explain the working of an IC, a simple k-map, and a lot more on the white board to anyone who is interested. In conclusion MARVEL is the place for learning and innovation, the entire environment keeps one motivated and instills the stive for perfection.  
+
+Here are some snaps from previously conducted sessions:  
+
+![]()  
+
+![]()  
+
+![]()  
+
+
 
 ## Contact and Social Media
 [website](https://hub.uvcemarvel.in/)  
