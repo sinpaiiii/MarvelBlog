@@ -46,11 +46,11 @@ Team MARVEL has conducted various seminars and workshops, that were open for all
 
 Here are some snaps from previously conducted sessions:  
 
-![]()  
+![](IMG-20220616-WA0085.jpg)  
 
-![]()  
+![](IMG-20220616-WA0086.jpg)  
 
-![]()  
+![](IMG-20220616-WA0087.jpg)  
 
 
 
