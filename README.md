@@ -14,6 +14,7 @@ funded by the alumni through the **UVCE Graduates Association** and is taken car
 
 > *"A journey of a thousand miles begins with a single step."* ~ **Lao Tsu**
 
+[](IMG-20220616-WA0080.jpg)
 
 The club was inaugurated  on **15th September, 2021**, the *co-ordinators* have kept the lab up and running since then. On December, 2021 the first batch of *students* entered the lab after shortlisting about thirty out of a hundred applicants. The first batch officially ended the level one of their respective domains on June. (The above-mentioned roles will be briefly discussed below)
 
